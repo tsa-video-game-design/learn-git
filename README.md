@@ -1,7 +1,7 @@
 # learn-git
 Hi, everyone! Here's an example Git repository.
 Type your username/name/whatever next to the number I gave you.
-1. Your_Name_Here
+1. Gitrogatog (Roberto)
 2. Your_Name_Here
 3. Your_Name_Here
 4. Your_Name_Here
